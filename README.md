@@ -43,7 +43,3 @@ This project implements an **author classification** model using **BERT embeddin
 - Random seed is fixed for reproducibility  
 - Batch size and number of epochs are configurable  
 
-## 🔗 Files
-- `train.csv` : Training dataset  
-- `test.csv` : Test dataset  
-- `submission1.csv` : Model predictions
